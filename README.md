@@ -58,7 +58,8 @@ We would like to thank the Flutter and GetX communities for their valuable contr
 
 ## Contact
 
-If you have any questions or suggestions regarding the Car Control Dashboard app, feel free to contact us at rh676838@gmail.com.
+If you have any questions or suggestions regarding the Car Control Dashboard app, feel free to contact us at usamagujjar7722@gmail.com
+
 
 
 
